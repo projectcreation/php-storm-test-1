@@ -1,5 +1,6 @@
-<h2>About</h2>
 
-<p>
+<h2>About page</h2>
+
+<p class="desc">
     <?php echo getDescription(); ?>
 </p>
