@@ -8,6 +8,11 @@
     <title>Document</title>
 </head>
 <body>
-    <?php phpinfo(); ?>
+    <h1>
+        <?php echo getTitle(); ?>
+    </h1>
+    <p>
+        <?php echo getDescription(); ?>
+    </p>
 </body>
 </html>
